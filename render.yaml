@@ -1,1 +1,8 @@
-
+services:
+  - type: web
+    name: random-image
+    repo: https://github.com/APARATHAM/random-image
+    plan: standard
+    branch: main
+    buildCommand: npm i
+    startCommand: npm test
