@@ -1,5 +1,6 @@
 services:
   - type: web
+    runtime: npm
     name: random-image
     repo: https://github.com/APARATHAM/random-image
     plan: standard
