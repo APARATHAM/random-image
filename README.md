@@ -8,3 +8,5 @@ An api that gets random images from the image folder
 3. Goto Render.com
    
    [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=./)
+
+4. Connect your repo and Deploy
